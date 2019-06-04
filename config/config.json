@@ -1,0 +1,21 @@
+{
+    "group_api_token": "",
+    "group_id": "-",
+    "post_id": 0,
+    "interval": 1000,
+    "limit": 1,
+    "messages": [
+        "❤",
+        "💛",
+        "💚",
+        "💙",
+        "💜",
+        "🖤"
+    ],
+
+    "settings": {
+        "url": "https://api.vk.com/method/wall.createComment",
+        "vk_api_version": "5.95",
+        "from_group": 1
+    }
+}
